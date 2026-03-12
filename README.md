@@ -25,25 +25,22 @@ Aqui guardo exercícios, exemplos e projetos feitos durante meus estudos.
 
 ## 📖 Conteúdo estudado
 
-✔ Estrutura básica HTML
-✔ Listas ordenadas e não ordenadas
-✔ Links e navegação
-✔ Imagens
-✔ Tabelas
-✔ Formulários
+* ✅ Estrutura básica HTML
+* ✅ Listas ordenadas e não ordenadas
+* ✅ Links e navegação
+* ✅ Imagens
+* ✅ Tabelas
+* ✅ Formulários
 
 ---
 
 ## 📂 Estrutura do projeto
 
-Html-treino-revisao
-│
-├── aula01 → Estrutura básica HTML
-├── aula02 → Listas
-├── aula03 → Links e imagens
-├── aula04 → Tabelas
-└── aula05 → Formulários
-
+* 📁 aula01 → Estrutura básica HTML
+* 📁 aula02 → Listas
+* 📁 aula03 → Links e imagens
+* 📁 aula04 → Tabelas
+* 📁 aula05 → Formulários
 
 ---
 
